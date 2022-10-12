@@ -1,0 +1,4 @@
+total 8
+-rw-rw-r-- 1 sam sam 42 Oct 12 11:43 h1.txt
+-rw-rw-r-- 1 sam sam 19 Oct 12 11:43 h2.txt
+-rw-rw-r-- 1 sam sam  0 Oct 12 11:43 h3.txt
